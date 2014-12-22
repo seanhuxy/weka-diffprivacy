@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build/classes" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Snowson/Downloads/java-cup-bin-11b-20140902.tar/java-cup-bin-11b-20140902/java-cup-11b.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Eclipse/lib/commons-cli-1.2-bin/commons-cli-1.2/commons-cli-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
